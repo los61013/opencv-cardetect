@@ -42,5 +42,3 @@ while video.isOpened():
         break
 
 video.release()
-
-#https://pyimagesearch.com/2018/08/13/opencv-people-counter/
