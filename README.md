@@ -5,4 +5,4 @@
 2.只能對單一影片偵測，若要用在不同影片的話要重新調整參數。  
 >影片樣本:  
 CAR1:https://www.youtube.com/watch?v=QuUxHIVUoaY(720P)  
-CAR3:
+CAR3:https://drive.google.com/file/d/13N3INPxaJUmV20eHWYHQcXjoi_TnYCf3/view?usp=share_link
